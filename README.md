@@ -1,4 +1,4 @@
-🚀 About Me
+🚀 About Me|
 Passionate about software development, I blend analytical thinking with adaptability to solve challenges effectively. A fast learner and a collaborative team player, I focus on both details and the bigger picture to drive project success. Committed to continuous learning and crafting impactful solutions.
 
 🛠 Tech Stack
